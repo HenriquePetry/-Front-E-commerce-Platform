@@ -1,0 +1,38 @@
+{
+  "name": "nome-do-seu-projeto",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@auth/mongodb-adapter": "^3.4.2",
+    "@aws-sdk/client-s3": "^3.620.0",
+    "auto": "^11.1.6",
+    "autoprefixer": "^10.4.19",
+    "axios": "^1.7.7",
+    "date-fns": "^4.1.0",
+    "eslint": "8.57.0",
+    "eslint-config-next": "14.2.4",
+    "express": "^4.19.2",
+    "mime-types": "^2.1.35",
+    "mongodb": "^6.8.0",
+    "mongoose": "^8.5.1",
+    "multiparty": "^4.2.3",
+    "next": "14.2.4",
+    "next-auth": "^4.24.7",
+    "postcss": "^8.4.39",
+    "prefixer": "^0.0.3",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-sortablejs": "^6.1.4",
+    "react-spinners": "^0.14.1",
+    "react-sweetalert2": "^0.6.0",
+    "sortablejs": "^1.15.2",
+    "sweetalert2": "^11.12.4",
+    "tailwindcss": "^3.4.4"
+  }
+}
