@@ -2,7 +2,13 @@
 
 This is a full-featured **e-commerce platform** developed as part of my final college project. The system includes both a **storefront for customers** and an **admin dashboard** to manage products and orders.
 
+## 🎬 Demo
+
+📽️ **Watch the demo video on YouTube:**  
+[Click here to watch](https://youtu.be/_WcMT4YzoqM)
+
 [![Watch the demo](https://img.youtube.com/vi/_WcMT4YzoqM/maxresdefault.jpg)](https://youtu.be/_WcMT4YzoqM)
+
 
 ## 🔧 Tech Stack
 
